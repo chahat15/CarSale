@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Series 5",
+    "picture": "newcar/Webp.net-resizeimage (1).jpg",
+    "age": 3,
+    "breed": "BMW",
+    "location": "Tank Road, Mumbai"
+  },
+  {
+    "id": 1,
+    "name": "Swift",
+    "picture": "newcar/Webp.net-resizeimage.jpg",
+    "age": 3,
+    "breed": "Suzuki",
+    "location": "Vashi, Navi, Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Duster",
+    "picture": "newcar/Webp.net-resizeimage (2).jpg",
+    "age": 2,
+    "breed": "Renault",
+    "location": "Teynampet, Chennai"
+  },
+  {
+    "id": 3,
+    "name": "Inova",
+    "picture": "newcar/Webp.net-resizeimage (3).jpg",
+    "age": 2,
+    "breed": "Toyota",
+    "location": "Perungudi, Chennai"
+  },
+  {
+    "id": 4,
+    "name": "Antique car(1956)",
+    "picture": "newcar/Webp.net-resizeimage (4).jpg",
+    "age": 2,
+    "breed": "Ambassador",
+    "location": "Mahalaxmi,Mumbai"
+  },
+  {
+    "id": 5,
+    "name": "Creta",
+    "picture": "newcar/Webp.net-resizeimage (5).jpg",
+    "age": 3,
+    "breed": "Hyundai",
+    "location": "Chembur(east), Mumbai"
+  },
+  {
+    "id": 6,
+    "name": "JR 101",
+    "picture": "newcar/Webp.net-resizeimage (6).jpg",
+    "age": 3,
+    "breed": "Jaguar",
+    "location": "Sainik Farm, Delhi"
+  },
+  {
+    "id": 7,
+    "name": "Creta",
+    "picture": "newcar/Webp.net-resizeimage (7).jpg",
+    "age": 3,
+    "breed": "Hyundai",
+    "location": "MG Road, Bangalore"
+  },
+  {
+    "id": 8,
+    "name": "Js 2018",
+    "picture": "newcar/Webp.net-resizeimage (8).jpg",
+    "age": 2,
+    "breed": "Jaguar",
+    "location": "JB nagar, Mumbai"
+  },
+  {
+    "id": 9,
+    "name": "Audi A4",
+    "picture": "newcar/Webp.net-resizeimage (9).jpg",
+    "age": 3,
+    "breed": "Audi",
+    "location": "Lajwanti Garden, Delhi"
+  },
+  {
+    "id": 10,
+    "name": "cadillac",
+    "picture": "newcar/Webp.net-resizeimage (10).jpg",
+    "age": 2,
+    "breed": "cadillac",
+    "location": "Crawford, Mumbai,"
+  },
+  {
+    "id": 11,
+    "name": "BMW S-series",
+    "picture": "newcar/Webp.net-resizeimage (11).jpg",
+    "age": 3,
+    "breed": "BMW",
+    "location": "Panvel, Mumbai"
+  },
+  {
+    "id": 12,
+    "name": "BMW AWX",
+    "picture": "newcar/Webp.net-resizeimage (12).jpg",
+    "age": 3,
+    "breed": "BMW",
+    "location": "Nariman Point, Mumbai"
+  },
+  {
+    "id": 13,
+    "name": "Orange mussai",
+    "picture": "newcar/Webp.net-resizeimage (13).jpg",
+    "age": 4,
+    "breed": "mussai",
+    "location": "Masjid Bunder, Mumbai"
+  },
+  {
+    "id": 14,
+    "name": "Nano",
+    "picture": "newcar/Webp.net-resizeimage (14).jpg",
+    "age": 2,
+    "breed": "Suzuki",
+    "location": "Moti Nagar, Delhi"
+  },
+  {
+    "id": 15,
+    "name": "Mercedes Z4",
+    "picture": "newcar/Webp.net-resizeimage (15).jpg",
+    "age": 2,
+    "breed": "Mercedes",
+    "location": "Nungambakkam, Chennai"
+  }
+]
